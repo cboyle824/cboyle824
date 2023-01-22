@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hello 👋
 
+
+I'm currently working on my undergraduate in Aerospace Engineering :rocket: @ Iowa State University
 <!--
 **cboyle824/cboyle824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

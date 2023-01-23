@@ -1,7 +1,9 @@
-### Hello 👋
+### Hello and welcome to my page 👋
 
 
-I'm currently working on my undergraduate in Aerospace Engineering :rocket: @ Iowa State University
+I'm currently working on my undergraduate in Aerospace Engineering :rocket: @ Iowa State University.
+I'm interested in learning a little bit of everything.
+I also have a microscopy hobby :microscope:[@mycrowmicro](https://www.instagram.com/mycrowmicro/) on Instagram.
 <!--
 **cboyle824/cboyle824** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
